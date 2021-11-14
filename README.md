@@ -20,4 +20,4 @@ Runing three models including random forest, Logistic regression, Neural network
 
 
 ## License
-Data [Source]( https://dx.doi.org/10.25912/5cc28f62e81ad.) is under Creative Commons Attribution (c) with is open data gererated by QUT.
+Data [https://data.researchdatafinder.qut.edu.au/dataset/sleep-data](https://data.researchdatafinder.qut.edu.au/dataset/sleep-data) is under Creative Commons Attribution (c) with is open data gererated by QUT.
