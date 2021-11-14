@@ -10,7 +10,7 @@ Group 12
 3. Devika Veereshkumar Nair 10856188
 
 ### Methods
-[My markdown](https://github.com/paramita-pp/IFN646-Group-Project/blob/main/all_models.ipynb)
+[My markdown (all-model.ipynb)](https://github.com/paramita-pp/IFN646-Group-Project/blob/46a821a64a54fb48864fb3097a42ec6345024027/all_models.ipynb)
 Runing three models including random forest, Logistic regression, Neural network to predict sleep or wake.
 
 ### Technology
